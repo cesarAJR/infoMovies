@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23726184855",
+    "project_id": "moviescleanarchi",
+    "storage_bucket": "moviescleanarchi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23726184855:android:29bed1a75e3afdd3ffccd2",
+        "android_client_info": {
+          "package_name": "com.example.prueba_softtek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vVg6g8zaZT6zKnVb8hAQBQbFrJJLf1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
